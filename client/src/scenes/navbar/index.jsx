@@ -55,7 +55,7 @@ const Navbar = () => {
             },
           }}
         >
-          Connect
+          WeConnect
         </Typography>
         {isNonMobileScreens && (
           <FlexBetween
